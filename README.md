@@ -1,0 +1,1 @@
+# Intel-WiFi-Driver-2026
